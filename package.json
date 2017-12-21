@@ -1,0 +1,6 @@
+{
+  "name": "hillaryklingon/dropbox-recipe",
+  "description": "Installs the dropbox client and starts it",
+  "global": true,
+  "install": "make install"
+}
