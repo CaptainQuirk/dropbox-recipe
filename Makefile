@@ -1,4 +1,6 @@
+build:
+	@shef build install.recipe build/install
 install:
 	@/bin/bash install
 
-.PHONY: install
+.PHONY: build install

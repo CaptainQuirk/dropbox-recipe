@@ -1,0 +1,7 @@
+apt "Installing dropbox nautilus client"; do
+    package "dropbox"
+done
+
+code "Launching dropbox"; do
+    code "gnome-terminal -e 'dropbox start -i'"
+done
