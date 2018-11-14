@@ -1,4 +1,0 @@
-#!/bin/bash
-
-shef apt dropbox
-gnome-terminal -e "dropbox start -i"
